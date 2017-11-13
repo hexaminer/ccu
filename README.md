@@ -1,6 +1,6 @@
 Message from Hexaminer: You must check devops, frontend and backend folders.
 
-Check: https://github.com/tmbp95/ccu/wiki/Environment-Setup
+Check: https://github.com/hexaminer/ccu/wiki/Environment-Setup
 
 # CCU Platform (EDP)
 
